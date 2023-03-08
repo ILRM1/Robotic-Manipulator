@@ -1,5 +1,7 @@
 # Catching robot
 
+![fig1](https://user-images.githubusercontent.com/53123394/223743206-21e14333-660c-4276-9ccd-8b2215b6c9de.png)
+
 Please run python files as follows:
 
 1. generate_noise.py (for applying Perlin noises in simulator)
