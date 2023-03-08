@@ -1,3 +1,5 @@
 # Catching robot
 
-1.
+Run python files as follows:
+
+1. generate_noise
